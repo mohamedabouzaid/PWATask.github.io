@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "browser",
     "scope": "/",
-    "start_url": "/https://mohamedabouzaid.github.io/PWATask.github.io/",
+    "start_url": "/",
     "name": "mpa",
     "short_name": "app",
     "icons": [
